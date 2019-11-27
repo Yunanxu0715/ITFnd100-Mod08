@@ -158,5 +158,9 @@ while(True):
 
 
 ```
+![result1](https://github.com/Yunanxu0715/ITFnd100-Mod08/blob/master/Screen%20Shot%202019-11-27%20at%208.06.01%20PM.png)
+![result2](https://github.com/Yunanxu0715/ITFnd100-Mod08/blob/master/Screen%20Shot%202019-11-27%20at%208.06.10%20PM.png)
+![result3](https://github.com/Yunanxu0715/ITFnd100-Mod08/blob/master/Screen%20Shot%202019-11-27%20at%208.20.33%20PM.png)
+![result4](https://github.com/Yunanxu0715/ITFnd100-Mod08/blob/master/Screen%20Shot%202019-11-27%20at%208.20.39%20PM.png)
 
 
